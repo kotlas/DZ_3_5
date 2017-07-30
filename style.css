@@ -1,0 +1,13 @@
+h1{
+	color: red;
+	text-align: center;
+}
+h2{
+	color: green;
+	font-size: 45px;
+	text-decoration: underline;
+}
+h3{
+	background: yellow;
+	text-align: right;
+}
